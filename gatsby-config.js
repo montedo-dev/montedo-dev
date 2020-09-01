@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `montedo-dev`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rafael Montedo. `,
+      summary: `System analyst with passion with technology.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `This blog aims to share knowledge with people from all over the world.`,
+    siteUrl: `https://montedo-dev.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `montedo-dev`,
     },
   },
   plugins: [
