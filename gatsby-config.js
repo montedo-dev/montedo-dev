@@ -8,7 +8,7 @@ module.exports = {
     description: `This blog aims to share knowledge with people from all over the world.`,
     siteUrl: `https://montedo-dev.com/`,
     social: {
-      twitter: `montedo-dev`,
+      twitter: `MontedoDev`,
     },
   },
   plugins: [
