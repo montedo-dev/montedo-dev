@@ -8,7 +8,7 @@
 My first contact with programming was writing <b>Perl</b> scripts for a bot in a MMORPG called Ragnarok Online, I didn`t quite understand what programming was at that time and I was impressed with what a few words in a text editor could do.
 </p>
 
-<p>When I entered college I had contact with the C language and it was through it that I programmed my first algorithms and where I exercised my programming logic, at the end of the first semester I was already passionate about programming.
+<p>When I entered college I had contact with the <b>C</b> language and it was through it that I programmed my first algorithms and where I exercised my programming logic, at the end of the first semester I was already passionate about programming.
 </p>
 
 <p>

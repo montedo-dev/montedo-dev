@@ -2,13 +2,16 @@ module.exports = {
   siteMetadata: {
     title: `montedo-dev`,
     author: {
-      name: `Rafael Montedo. `,
+      name: `Rafael Montedo`,
       summary: `System analyst with passion with technology.`,
     },
     description: `This blog aims to share knowledge with people from all over the world.`,
     siteUrl: `https://montedo-dev.com/`,
     social: {
+      github: `montedo-dev`,
       twitter: `MontedoDev`,
+      linkedin: `montedo/?locale=en_US`,
+      gitkraken: `aehniCQ4`,
     },
   },
   plugins: [

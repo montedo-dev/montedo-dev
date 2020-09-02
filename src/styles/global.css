@@ -1,0 +1,23 @@
+/* SOCIAL MEDIA */
+.social-media-icons{
+    box-shadow: none;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.twitter{
+    color:#1DA0F1;
+}
+
+.github{
+    color: black;
+}
+
+.linkedin {
+    color: #0077B5;
+}
+
+.gitkraken{
+    color: #179287;
+}
+/* END SOCIAL MEDIA */

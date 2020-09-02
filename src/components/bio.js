@@ -8,6 +8,8 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLinkedin, faGithub, faTwitter, faGitkraken } from '@fortawesome/free-brands-svg-icons'
 
 import { rhythm } from "../utils/typography"
 
@@ -28,7 +30,10 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            twitter,
+            github,
+            linkedin,
+            gitkraken
           }
         }
       }
@@ -40,7 +45,7 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(2.5),        
       }}
     >
       <Image
@@ -57,11 +62,16 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        Written by <strong>{author.name}</strong>. {author.summary}
         {` `}
-        <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
-          Follow me on Twitter
-        </a>
+        <br />
+      
+          <a className="social-media-icons twitter" rel="noreferrer" target="_blank" href={`https://twitter.com/${social.twitter}` }>  <FontAwesomeIcon icon={faTwitter} /> </a>
+          <a className="social-media-icons github" rel="noreferrer" target="_blank" href={`https://github.com/${social.github}` }>  <FontAwesomeIcon icon={faGithub} /> </a>
+          <a className="social-media-icons linkedin" rel="noreferrer" target="_blank" href={`https://linkedin.com/in/${social.linkedin}` }>  <FontAwesomeIcon icon={faLinkedin} /> </a>
+          <a className="social-media-icons gitkraken" rel="noreferrer" target="_blank" href={`https://www.gitkraken.com/invite/${social.gitkraken}`}>  <FontAwesomeIcon icon={faGitkraken} /> </a>
+        
+      
       </p>
     </div>
   )
