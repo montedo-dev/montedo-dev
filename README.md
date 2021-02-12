@@ -19,6 +19,7 @@ Over the months I started to specialize in<b> Web Based Systems</b> and got a jo
 - Currently attending a postgraduate course in Software Architecture.
 
 <h4> Social media </h4>
+[<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>](https://www.linkedin.com/in/montedo/?locale=en_US"){target="_blank"}
 <a href="https://www.linkedin.com/in/montedo/?locale=en_US" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/> </a>
 <a href="https://github.com/montedo-dev" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/github--v1.png"/> </a>
 <a href="https://twitter.com/montedo-dev" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/> </a>
