@@ -19,6 +19,6 @@ Over the months I started to specialize in<b> Web Based Systems</b> and got a jo
 - Currently attending a postgraduate course in Software Architecture.
 
 <h4> Social media </h4>
-- <a href="https://www.linkedin.com/in/montedo/?locale=en_US" target="_blank"> Linkedin </a>
+- <a href="https://www.linkedin.com/in/montedo/?locale=en_US" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/> </a>
 - <a href="https://github.com/montedo-dev"> Github </a>
 - <a href="https://twitter.com/montedo-dev"> Twitter </a>
